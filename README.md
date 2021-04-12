@@ -31,38 +31,19 @@ To start the app<br>
 Demo
 =============
 ## Profile Page:<br>
-![Screenshot of Profile Page]()
+![Screenshot of Example User Page](https://github.com/KilgoreTrout9/MVP-Movie_Rater/blob/main/client/src/images/Start-capture.png)
 From the user's Profile page, the user can:
-- Create a new Smove
-- View current Smove
-- View list of all the user's moves
-- Toggle the current Smove to any existing Smove
-- Add a team member to the current Smove, which creates a new User
+- Create a new Review
+- Edit any of your existing reviews
+- View list of all your friend's reviews
+- Like any review
+- Delete a review
 
 ## Task List<br>
 
-From the Task List page, the user can:
-- Create, Edit, or Delete any Task
-![Screenshot of Add Task Page](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.15.54%20AM.png)
-- View the user's Google Calendar
-- Add a task to the user's Google Calendar
-![Screenshot of Task List Page](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.16.09%20AM.png)
-- Navigate to the webpage of a designated task vendor
-
-
-## Inventory<br>
-![Screenshot of Inventory Page](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.17.23%20AM.png)
-From the Inventory page, the user can:
-- Add a "box" to the move inventory, with auto-incrementing box number
-- Edit any box in the inventory
-- Delete any box from the inventory 
-
-![Screenshot of Add Box](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.16.23%20AM.png)
-
-## Local Moving Services<br>
-![Screenshot of Local Moving Services Page](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.27.35%20AM.png)
-From the Local Moving Services page, the user can:
-- Use keywords to search for businesses
-- Sort search results
-- Display results on a map with pins and as cards in a carousel
-- Favorite any business, which will be made available when creating a new task
+In the review form on the left side of the screen:
+- Create or Edit a review
+![Screenshot of Adding a new Review](https://github.com/KilgoreTrout9/MVP-Movie_Rater/blob/main/client/src/images/Review-capture.png)
+- Enter the title, rating, review, author, actors, genres and upload a movie poster
+- This creates a new review in the list of your reviews
+![Screenshot of New Reivew Card](https://github.com/KilgoreTrout9/MVP-Movie_Rater/blob/main/client/src/images/New-review-capture.png)
