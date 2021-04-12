@@ -30,14 +30,8 @@ To start the app<br>
 
 Demo
 =============
-
-## User Authentication:<br>
-Sign In with Google
-
-![Screenshot of Sign In Page](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.05.57%20AM.png)
-
 ## Profile Page:<br>
-![Screenshot of Profile Page](https://github.com/BlueOcean-Smove/Smove/blob/1d6e9640a81e79b44197d39e9d18646f260cb528/SmoveScreenshots/Screen%20Shot%202021-04-10%20at%2010.37.53%20AM.png)
+![Screenshot of Profile Page]()
 From the user's Profile page, the user can:
 - Create a new Smove
 - View current Smove
