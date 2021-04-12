@@ -6,7 +6,7 @@ Built with:
 * [Redux](https://redux.js.org/)
 * [Material-UI](https://material-ui.com/)
 * [Express](https://expressjs.com/)
-* [MongoDB Atlas](www.mongodb.com)
+* [MongoDB](www.mongodb.com)
 * [Mongoose](https://mongoosejs.com/docs/)
 
 Requirements
