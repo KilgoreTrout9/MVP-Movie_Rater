@@ -1,0 +1,30 @@
+{
+  "name": "MVP-Movie_Rater",
+  "version": "1.0.0",
+  "description": "Full stack application for movie reivews both reading and creating new reviews.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KilgoreTrout9/MVP-Movie_Rater.git"
+  },
+  "keywords": [],
+  "author": "Pete Cowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KilgoreTrout9/MVP-Movie_Rater/issues"
+  },
+  "homepage": "https://github.com/KilgoreTrout9/MVP-Movie_Rater#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "nodemon": "^2.0.7",
+    "require": "^2.4.20"
+  }
+}
